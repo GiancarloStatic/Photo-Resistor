@@ -1,1 +1,1 @@
-# Photo-Resistor
+# Photo-resistor
